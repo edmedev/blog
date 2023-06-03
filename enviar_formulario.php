@@ -41,5 +41,5 @@
     mail($destinatario_admin, $asunto_admin, $mensaje_admin, $cabeceras_admin);
 
     // Redirecciona al usuario a una página de confirmación o muestra un mensaje de éxito
-    echo "El formulario se envió correctamente. Se ha enviado una copia a tu dirección de correo electrónico.";
+    echo "./about.html";
 ?>
